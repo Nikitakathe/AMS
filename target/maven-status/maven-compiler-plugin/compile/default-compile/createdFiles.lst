@@ -1,0 +1,11 @@
+auction\AddProduct.class
+auction\Login_Admin.class
+auction\AddCategory.class
+auction\EditProduct.class
+auction\Logout_Admin.class
+auction\deleteProduct.class
+auction\bidRegister.class
+auction\CustomerRegister.class
+auction\CustomerLogin.class
+auction\Register_Admin.class
+auction\logout.class
